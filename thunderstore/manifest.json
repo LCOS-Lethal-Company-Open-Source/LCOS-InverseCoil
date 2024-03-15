@@ -1,5 +1,5 @@
 {
-    "name": "Inverse Coilhead",
+    "name": "Inverse_Coilhead",
     "version_number": "0.0.1",
     "website_url": "https://github.com/LCOS-Lethal-Company-Open-Source/LCOS-Mods",
     "description": "A mod which changes the coilhead's behavior so that it moves only when a player is looking at it.",
