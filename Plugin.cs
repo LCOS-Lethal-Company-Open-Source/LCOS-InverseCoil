@@ -35,7 +35,7 @@ public class Plugin : BaseUnityPlugin
                                                                                                                     BindingFlags.Instance)))
                 {
                     yield return new CodeInstruction(OpCodes.Pop);
-                    yield return new CodeInstruction(OpCodes.Ldc_R4, 12.0f);
+                    yield return new CodeInstruction(OpCodes.Ldc_R4, 14.0f);
                 }
                 else yield return instruction; 
                 if (instruction.opcode == OpCodes.Blt) 
